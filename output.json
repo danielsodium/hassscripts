@@ -1,0 +1,622 @@
+http: //rpi.apis.acalog.com/v1/content?key=3eef8a28f26fb2bcc514e6f1938929a1f9317628&format=xml&method=getItems&options[full]=1&catalog=26&type=courses&ids[]=61504&ids[]=67696
+[
+    {
+        "a:title": {
+            "#text": "STSO 2700 - Law & Society",
+            "@_xmlns:a": "http://www.w3.org/2005/Atom"
+        },
+        "parent": {
+            "xi:include": {
+                "xi:fallback": "School of Humanities, Arts, and Social Sciences",
+                "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                "@_xi:xpointer": "xmlns(c=http://acalog.com/catalog/1.0) xpointer((//c:hierarchy//c:entity[@id='acalog-entity-1460'])[1])"
+            },
+            "@_xmlns:xi": "http://www.w3.org/2001/XInclude"
+        },
+        "type": {
+            "xi:include": {
+                "xi:fallback": "Science and Technology Studies-Social Sci. Credit",
+                "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                "@_xi:xpointer": "xmlns(c=http://acalog.com/catalog/1.0) xpointer((//c:types//c:type[@id='acalog-course-type-1259'])[1])"
+            },
+            "@_xmlns:xi": "http://www.w3.org/2001/XInclude"
+        },
+        "locations": "",
+        "a:content": {
+            "prefix": "STSO",
+            "code": 2700,
+            "name": "Law & Society",
+            "field": [
+                {
+                    "xi:include": {
+                        "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                        "@_xi:xpointer": "xmlns(c=http://acalog.com/catalog/1.0) xpointer((//c:courses/c:fields/c:field[@id='acalog-field-654'])[1])"
+                    },
+                    "data": "STSO",
+                    "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                    "@_type": "acalog-field-654"
+                },
+                {
+                    "xi:include": {
+                        "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                        "@_xi:xpointer": "xmlns(c=http://acalog.com/catalog/1.0) xpointer((//c:courses/c:fields/c:field[@id='acalog-field-655'])[1])"
+                    },
+                    "data": "",
+                    "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                    "@_type": "acalog-field-655"
+                },
+                {
+                    "xi:include": {
+                        "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                        "@_xi:xpointer": "xmlns(c=http://acalog.com/catalog/1.0) xpointer((//c:courses/c:fields/c:field[@id='acalog-field-656'])[1])"
+                    },
+                    "data": 2700,
+                    "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                    "@_type": "acalog-field-656"
+                },
+                {
+                    "xi:include": {
+                        "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                        "@_xi:xpointer": "xmlns(c=http://acalog.com/catalog/1.0) xpointer((//c:courses/c:fields/c:field[@id='acalog-field-657'])[1])"
+                    },
+                    "data": "&#xA0;-&#xA0;",
+                    "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                    "@_type": "acalog-field-657"
+                },
+                {
+                    "xi:include": {
+                        "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                        "@_xi:xpointer": "xmlns(c=http://acalog.com/catalog/1.0) xpointer((//c:courses/c:fields/c:field[@id='acalog-field-658'])[1])"
+                    },
+                    "data": "Law & Society",
+                    "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                    "@_type": "acalog-field-658"
+                },
+                {
+                    "xi:include": {
+                        "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                        "@_xi:xpointer": "xmlns(c=http://acalog.com/catalog/1.0) xpointer((//c:courses/c:fields/c:field[@id='acalog-field-638'])[1])"
+                    },
+                    "data": "",
+                    "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                    "@_type": "acalog-field-638"
+                },
+                {
+                    "xi:include": {
+                        "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                        "@_xi:xpointer": "xmlns(c=http://acalog.com/catalog/1.0) xpointer((//c:courses/c:fields/c:field[@id='acalog-field-639'])[1])"
+                    },
+                    "data": {
+                        "h:p": [
+                            {
+                                "#text": "There ought to be a law. . .\" &#xA0;Law shapes people's lives in countless ways; it is everywhere. Law permits, prohibits, enables, legitimizes, protects, and prosecutes. Law is more than the written word, the \"black letter law.\" People make the law&#x2014;judges, attorneys, police officers, legislators, defendants, and plaintiffs. This course will explore the law's social, political, cultural, and historical aspects. Using an interdisciplinary approach, the course will examine how social theorists conceptualize and explain the relationship between law and society. Students will be exposed to the theoretical frameworks that are used to examine how the law shapes society, and society shapes the law, and develop an understanding of the social processes that affect the legal system. The course will advance students' capacity to think critically and communicate effectively about themes, concepts, and arguments surrounding the law and learn what law is; where it comes from; who creates it; and what roles it plays in shaping society.&#xA0;",
+                                "@_xmlns:h": "http://www.w3.org/1999/xhtml"
+                            },
+                            {
+                                "#text": "&#xA0;",
+                                "@_xmlns:h": "http://www.w3.org/1999/xhtml"
+                            }
+                        ],
+                        "@_xmlns:h": "http://www.w3.org/1999/xhtml"
+                    },
+                    "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                    "@_xmlns:h": "http://www.w3.org/1999/xhtml",
+                    "@_type": "acalog-field-639"
+                },
+                {
+                    "xi:include": {
+                        "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                        "@_xi:xpointer": "xmlns(c=http://acalog.com/catalog/1.0) xpointer((//c:courses/c:fields/c:field[@id='acalog-field-640'])[1])"
+                    },
+                    "data": "",
+                    "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                    "@_type": "acalog-field-640"
+                },
+                {
+                    "xi:include": {
+                        "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                        "@_xi:xpointer": "xmlns(c=http://acalog.com/catalog/1.0) xpointer((//c:courses/c:fields/c:field[@id='acalog-field-691'])[1])"
+                    },
+                    "data": "",
+                    "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                    "@_type": "acalog-field-691"
+                },
+                {
+                    "xi:include": {
+                        "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                        "@_xi:xpointer": "xmlns(c=http://acalog.com/catalog/1.0) xpointer((//c:courses/c:fields/c:field[@id='acalog-field-693'])[1])"
+                    },
+                    "data": "",
+                    "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                    "@_type": "acalog-field-693"
+                },
+                {
+                    "xi:include": {
+                        "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                        "@_xi:xpointer": "xmlns(c=http://acalog.com/catalog/1.0) xpointer((//c:courses/c:fields/c:field[@id='acalog-field-641'])[1])"
+                    },
+                    "data": "",
+                    "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                    "@_type": "acalog-field-641"
+                },
+                {
+                    "xi:include": {
+                        "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                        "@_xi:xpointer": "xmlns(c=http://acalog.com/catalog/1.0) xpointer((//c:courses/c:fields/c:field[@id='acalog-field-642'])[1])"
+                    },
+                    "data": "",
+                    "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                    "@_type": "acalog-field-642"
+                },
+                {
+                    "xi:include": {
+                        "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                        "@_xi:xpointer": "xmlns(c=http://acalog.com/catalog/1.0) xpointer((//c:courses/c:fields/c:field[@id='acalog-field-643'])[1])"
+                    },
+                    "data": "Spring term annually.",
+                    "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                    "@_type": "acalog-field-643"
+                },
+                {
+                    "xi:include": {
+                        "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                        "@_xi:xpointer": "xmlns(c=http://acalog.com/catalog/1.0) xpointer((//c:courses/c:fields/c:field[@id='acalog-field-644'])[1])"
+                    },
+                    "data": "",
+                    "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                    "@_type": "acalog-field-644"
+                },
+                {
+                    "xi:include": {
+                        "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                        "@_xi:xpointer": "xmlns(c=http://acalog.com/catalog/1.0) xpointer((//c:courses/c:fields/c:field[@id='acalog-field-646'])[1])"
+                    },
+                    "data": "",
+                    "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                    "@_type": "acalog-field-646"
+                },
+                {
+                    "xi:include": {
+                        "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                        "@_xi:xpointer": "xmlns(c=http://acalog.com/catalog/1.0) xpointer((//c:courses/c:fields/c:field[@id='acalog-field-696'])[1])"
+                    },
+                    "data": "",
+                    "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                    "@_type": "acalog-field-696"
+                },
+                {
+                    "xi:include": {
+                        "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                        "@_xi:xpointer": "xmlns(c=http://acalog.com/catalog/1.0) xpointer((//c:courses/c:fields/c:field[@id='acalog-field-694'])[1])"
+                    },
+                    "data": "",
+                    "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                    "@_type": "acalog-field-694"
+                },
+                {
+                    "xi:include": {
+                        "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                        "@_xi:xpointer": "xmlns(c=http://acalog.com/catalog/1.0) xpointer((//c:courses/c:fields/c:field[@id='acalog-field-647'])[1])"
+                    },
+                    "data": "",
+                    "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                    "@_type": "acalog-field-647"
+                },
+                {
+                    "xi:include": {
+                        "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                        "@_xi:xpointer": "xmlns(c=http://acalog.com/catalog/1.0) xpointer((//c:courses/c:fields/c:field[@id='acalog-field-648'])[1])"
+                    },
+                    "data": "",
+                    "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                    "@_type": "acalog-field-648"
+                },
+                {
+                    "xi:include": {
+                        "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                        "@_xi:xpointer": "xmlns(c=http://acalog.com/catalog/1.0) xpointer((//c:courses/c:fields/c:field[@id='acalog-field-649'])[1])"
+                    },
+                    "data": "",
+                    "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                    "@_type": "acalog-field-649"
+                },
+                {
+                    "xi:include": {
+                        "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                        "@_xi:xpointer": "xmlns(c=http://acalog.com/catalog/1.0) xpointer((//c:courses/c:fields/c:field[@id='acalog-field-650'])[1])"
+                    },
+                    "data": 4,
+                    "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                    "@_type": "acalog-field-650"
+                },
+                {
+                    "xi:include": {
+                        "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                        "@_xi:xpointer": "xmlns(c=http://acalog.com/catalog/1.0) xpointer((//c:courses/c:fields/c:field[@id='acalog-field-651'])[1])"
+                    },
+                    "data": "",
+                    "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                    "@_type": "acalog-field-651"
+                },
+                {
+                    "xi:include": {
+                        "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                        "@_xi:xpointer": "xmlns(c=http://acalog.com/catalog/1.0) xpointer((//c:courses/c:fields/c:field[@id='acalog-field-652'])[1])"
+                    },
+                    "data": "",
+                    "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                    "@_type": "acalog-field-652"
+                }
+            ],
+            "@_xmlns:a": "http://www.w3.org/2005/Atom",
+            "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+            "@_xmlns:h": "http://www.w3.org/1999/xhtml"
+        },
+        "@_id": "acalog-course-61504"
+    },
+    {
+        "a:title": {
+            "#text": "CHEM 1100 - Chemistry I",
+            "@_xmlns:a": "http://www.w3.org/2005/Atom"
+        },
+        "type": {
+            "xi:include": {
+                "xi:fallback": "Chemistry",
+                "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                "@_xi:xpointer": "xmlns(c=http://acalog.com/catalog/1.0) xpointer((//c:types//c:type[@id='acalog-course-type-1227'])[1])"
+            },
+            "@_xmlns:xi": "http://www.w3.org/2001/XInclude"
+        },
+        "locations": "",
+        "a:content": {
+            "field": {
+                "xi:include": {
+                    "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                    "@_xi:xpointer": "xmlns(c=http://acalog.com/catalog/1.0) xpointer((//c:courses/c:fields/c:field[@id='acalog-field-650'])[1])"
+                },
+                "data": 4,
+                "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                "@_type": "acalog-field-650"
+            },
+            "@_xmlns:a": "http://www.w3.org/2005/Atom",
+            "@_xmlns:xi": "http://www.w3.org/2001/XInclude"
+        },
+        "@_id": "acalog-course-59640",
+        "@_child-of": "acalog-entity-1472"
+    },
+    {
+        "a:title": {
+            "#text": "CHEM 1110 - Chemistry I with Advanced Lab",
+            "@_xmlns:a": "http://www.w3.org/2005/Atom"
+        },
+        "type": {
+            "xi:include": {
+                "xi:fallback": "Chemistry",
+                "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                "@_xi:xpointer": "xmlns(c=http://acalog.com/catalog/1.0) xpointer((//c:types//c:type[@id='acalog-course-type-1227'])[1])"
+            },
+            "@_xmlns:xi": "http://www.w3.org/2001/XInclude"
+        },
+        "locations": "",
+        "a:content": {
+            "field": {
+                "xi:include": {
+                    "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                    "@_xi:xpointer": "xmlns(c=http://acalog.com/catalog/1.0) xpointer((//c:courses/c:fields/c:field[@id='acalog-field-650'])[1])"
+                },
+                "data": 4,
+                "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                "@_type": "acalog-field-650"
+            },
+            "@_xmlns:a": "http://www.w3.org/2005/Atom",
+            "@_xmlns:xi": "http://www.w3.org/2001/XInclude"
+        },
+        "@_id": "acalog-course-59641",
+        "@_child-of": "acalog-entity-1472"
+    }
+]
+{
+    "a:title": {
+        "#text": "CHEM 1120 - Chemistry I Honors",
+        "@_xmlns:a": "http://www.w3.org/2005/Atom"
+    },
+    "parent": {
+        "xi:include": {
+            "xi:fallback": "Chemistry and Chemical Biology",
+            "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+            "@_xi:xpointer": "xmlns(c=http://acalog.com/catalog/1.0) xpointer((//c:hierarchy//c:entity[@id='acalog-entity-1472'])[1])"
+        },
+        "@_xmlns:xi": "http://www.w3.org/2001/XInclude"
+    },
+    "type": {
+        "xi:include": {
+            "xi:fallback": "Chemistry",
+            "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+            "@_xi:xpointer": "xmlns(c=http://acalog.com/catalog/1.0) xpointer((//c:types//c:type[@id='acalog-course-type-1227'])[1])"
+        },
+        "@_xmlns:xi": "http://www.w3.org/2001/XInclude"
+    },
+    "locations": "",
+    "a:content": {
+        "prefix": "CHEM",
+        "code": 1120,
+        "name": "Chemistry I Honors",
+        "field": [
+            {
+                "xi:include": {
+                    "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                    "@_xi:xpointer": "xmlns(c=http://acalog.com/catalog/1.0) xpointer((//c:courses/c:fields/c:field[@id='acalog-field-654'])[1])"
+                },
+                "data": "CHEM",
+                "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                "@_type": "acalog-field-654"
+            },
+            {
+                "xi:include": {
+                    "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                    "@_xi:xpointer": "xmlns(c=http://acalog.com/catalog/1.0) xpointer((//c:courses/c:fields/c:field[@id='acalog-field-655'])[1])"
+                },
+                "data": "",
+                "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                "@_type": "acalog-field-655"
+            },
+            {
+                "xi:include": {
+                    "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                    "@_xi:xpointer": "xmlns(c=http://acalog.com/catalog/1.0) xpointer((//c:courses/c:fields/c:field[@id='acalog-field-656'])[1])"
+                },
+                "data": 1120,
+                "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                "@_type": "acalog-field-656"
+            },
+            {
+                "xi:include": {
+                    "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                    "@_xi:xpointer": "xmlns(c=http://acalog.com/catalog/1.0) xpointer((//c:courses/c:fields/c:field[@id='acalog-field-657'])[1])"
+                },
+                "data": "&#xA0;-&#xA0;",
+                "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                "@_type": "acalog-field-657"
+            },
+            {
+                "xi:include": {
+                    "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                    "@_xi:xpointer": "xmlns(c=http://acalog.com/catalog/1.0) xpointer((//c:courses/c:fields/c:field[@id='acalog-field-658'])[1])"
+                },
+                "data": "Chemistry I Honors",
+                "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                "@_type": "acalog-field-658"
+            },
+            {
+                "xi:include": {
+                    "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                    "@_xi:xpointer": "xmlns(c=http://acalog.com/catalog/1.0) xpointer((//c:courses/c:fields/c:field[@id='acalog-field-638'])[1])"
+                },
+                "data": "",
+                "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                "@_type": "acalog-field-638"
+            },
+            {
+                "xi:include": {
+                    "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                    "@_xi:xpointer": "xmlns(c=http://acalog.com/catalog/1.0) xpointer((//c:courses/c:fields/c:field[@id='acalog-field-639'])[1])"
+                },
+                "data": {
+                    "h:p": [
+                        {
+                            "permalink": [
+                                {
+                                    "a:title": {
+                                        "#text": "CHEM 1100",
+                                        "@_xmlns:a": "http://www.w3.org/2005/Atom"
+                                    },
+                                    "@_link-id": "acalog-permalink-84",
+                                    "@_to": "acalog-course-59640",
+                                    "@_type": "tooltip"
+                                },
+                                {
+                                    "a:title": {
+                                        "#text": "CHEM 1110",
+                                        "@_xmlns:a": "http://www.w3.org/2005/Atom"
+                                    },
+                                    "@_link-id": "acalog-permalink-87",
+                                    "@_to": "acalog-course-59641",
+                                    "@_type": "tooltip"
+                                }
+                            ],
+                            "#text": "Covers the same lecture material as&#xA0;and, but laboratory experiments will be more technique-oriented to provide better preparation for students who plan to take future laboratory courses in chemistry.&#xA0;",
+                            "@_xmlns:h": "http://www.w3.org/1999/xhtml"
+                        },
+                        {
+                            "#text": "&#xA0;",
+                            "@_xmlns:h": "http://www.w3.org/1999/xhtml"
+                        },
+                        {
+                            "#text": "Restricted to Chemistry majors.",
+                            "@_xmlns:h": "http://www.w3.org/1999/xhtml"
+                        }
+                    ],
+                    "@_xmlns:h": "http://www.w3.org/1999/xhtml"
+                },
+                "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                "@_xmlns:h": "http://www.w3.org/1999/xhtml",
+                "@_type": "acalog-field-639"
+            },
+            {
+                "xi:include": {
+                    "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                    "@_xi:xpointer": "xmlns(c=http://acalog.com/catalog/1.0) xpointer((//c:courses/c:fields/c:field[@id='acalog-field-640'])[1])"
+                },
+                "data": "",
+                "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                "@_type": "acalog-field-640"
+            },
+            {
+                "xi:include": {
+                    "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                    "@_xi:xpointer": "xmlns(c=http://acalog.com/catalog/1.0) xpointer((//c:courses/c:fields/c:field[@id='acalog-field-691'])[1])"
+                },
+                "data": "",
+                "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                "@_type": "acalog-field-691"
+            },
+            {
+                "xi:include": {
+                    "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                    "@_xi:xpointer": "xmlns(c=http://acalog.com/catalog/1.0) xpointer((//c:courses/c:fields/c:field[@id='acalog-field-693'])[1])"
+                },
+                "data": "",
+                "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                "@_type": "acalog-field-693"
+            },
+            {
+                "xi:include": {
+                    "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                    "@_xi:xpointer": "xmlns(c=http://acalog.com/catalog/1.0) xpointer((//c:courses/c:fields/c:field[@id='acalog-field-641'])[1])"
+                },
+                "data": "",
+                "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                "@_type": "acalog-field-641"
+            },
+            {
+                "xi:include": {
+                    "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                    "@_xi:xpointer": "xmlns(c=http://acalog.com/catalog/1.0) xpointer((//c:courses/c:fields/c:field[@id='acalog-field-642'])[1])"
+                },
+                "data": "",
+                "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                "@_type": "acalog-field-642"
+            },
+            {
+                "xi:include": {
+                    "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                    "@_xi:xpointer": "xmlns(c=http://acalog.com/catalog/1.0) xpointer((//c:courses/c:fields/c:field[@id='acalog-field-643'])[1])"
+                },
+                "data": "",
+                "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                "@_type": "acalog-field-643"
+            },
+            {
+                "xi:include": {
+                    "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                    "@_xi:xpointer": "xmlns(c=http://acalog.com/catalog/1.0) xpointer((//c:courses/c:fields/c:field[@id='acalog-field-644'])[1])"
+                },
+                "data": "",
+                "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                "@_type": "acalog-field-644"
+            },
+            {
+                "xi:include": {
+                    "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                    "@_xi:xpointer": "xmlns(c=http://acalog.com/catalog/1.0) xpointer((//c:courses/c:fields/c:field[@id='acalog-field-646'])[1])"
+                },
+                "data": "",
+                "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                "@_type": "acalog-field-646"
+            },
+            {
+                "xi:include": {
+                    "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                    "@_xi:xpointer": "xmlns(c=http://acalog.com/catalog/1.0) xpointer((//c:courses/c:fields/c:field[@id='acalog-field-696'])[1])"
+                },
+                "data": "",
+                "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                "@_type": "acalog-field-696"
+            },
+            {
+                "xi:include": {
+                    "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                    "@_xi:xpointer": "xmlns(c=http://acalog.com/catalog/1.0) xpointer((//c:courses/c:fields/c:field[@id='acalog-field-694'])[1])"
+                },
+                "data": {
+                    "h:p": {
+                        "permalink": [
+                            {
+                                "a:title": {
+                                    "#text": "CHEM 1100",
+                                    "@_xmlns:a": "http://www.w3.org/2005/Atom"
+                                },
+                                "@_link-id": "acalog-permalink-84",
+                                "@_to": "acalog-course-59640",
+                                "@_type": "tooltip"
+                            },
+                            {
+                                "a:title": {
+                                    "#text": "CHEM 1110",
+                                    "@_xmlns:a": "http://www.w3.org/2005/Atom"
+                                },
+                                "@_link-id": "acalog-permalink-87",
+                                "@_to": "acalog-course-59641",
+                                "@_type": "tooltip"
+                            }
+                        ],
+                        "#text": "&#xA0;or&#xA0;.",
+                        "@_xmlns:h": "http://www.w3.org/1999/xhtml"
+                    },
+                    "@_xmlns:h": "http://www.w3.org/1999/xhtml"
+                },
+                "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                "@_xmlns:h": "http://www.w3.org/1999/xhtml",
+                "@_type": "acalog-field-694"
+            },
+            {
+                "xi:include": {
+                    "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                    "@_xi:xpointer": "xmlns(c=http://acalog.com/catalog/1.0) xpointer((//c:courses/c:fields/c:field[@id='acalog-field-647'])[1])"
+                },
+                "data": "",
+                "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                "@_type": "acalog-field-647"
+            },
+            {
+                "xi:include": {
+                    "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                    "@_xi:xpointer": "xmlns(c=http://acalog.com/catalog/1.0) xpointer((//c:courses/c:fields/c:field[@id='acalog-field-648'])[1])"
+                },
+                "data": "",
+                "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                "@_type": "acalog-field-648"
+            },
+            {
+                "xi:include": {
+                    "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                    "@_xi:xpointer": "xmlns(c=http://acalog.com/catalog/1.0) xpointer((//c:courses/c:fields/c:field[@id='acalog-field-649'])[1])"
+                },
+                "data": "",
+                "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                "@_type": "acalog-field-649"
+            },
+            {
+                "xi:include": {
+                    "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                    "@_xi:xpointer": "xmlns(c=http://acalog.com/catalog/1.0) xpointer((//c:courses/c:fields/c:field[@id='acalog-field-650'])[1])"
+                },
+                "data": 4,
+                "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                "@_type": "acalog-field-650"
+            },
+            {
+                "xi:include": {
+                    "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                    "@_xi:xpointer": "xmlns(c=http://acalog.com/catalog/1.0) xpointer((//c:courses/c:fields/c:field[@id='acalog-field-651'])[1])"
+                },
+                "data": "",
+                "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                "@_type": "acalog-field-651"
+            },
+            {
+                "xi:include": {
+                    "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                    "@_xi:xpointer": "xmlns(c=http://acalog.com/catalog/1.0) xpointer((//c:courses/c:fields/c:field[@id='acalog-field-652'])[1])"
+                },
+                "data": "",
+                "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                "@_type": "acalog-field-652"
+            }
+        ],
+        "@_xmlns:a": "http://www.w3.org/2005/Atom",
+        "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+        "@_xmlns:h": "http://www.w3.org/1999/xhtml"
+    },
+    "@_id": "acalog-course-67696"
+}

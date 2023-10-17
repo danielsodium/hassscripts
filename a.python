@@ -1,0 +1,3 @@
+chunk = [1,2,3,4,5]
+ids = "".join([f"&ids[]={id}" for id in chunk])
+print(ids)

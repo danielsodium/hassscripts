@@ -1,0 +1,735 @@
+{
+    "catalog": {
+        "courses": {
+            "fields": {
+                "field": [
+                    {
+                        "a:title": {
+                            "#text": "Prefix",
+                            "@_xmlns:a": "http://www.w3.org/2005/Atom"
+                        },
+                        "display": {
+                            "name": {
+                                "@_visibility": "hidden",
+                                "@_bold": "no",
+                                "@_italic": "no",
+                                "@_linebreak": "no",
+                                "@_placement": "before"
+                            },
+                            "data": {
+                                "@_bold": "no",
+                                "@_italic": "no"
+                            }
+                        },
+                        "@_xmlns:a": "http://www.w3.org/2005/Atom",
+                        "@_id": "acalog-field-654",
+                        "@_template": "title",
+                        "@_type": "small-text",
+                        "@_visibility": "visible"
+                    },
+                    {
+                        "a:title": {
+                            "@_xmlns:a": "http://www.w3.org/2005/Atom"
+                        },
+                        "@_xmlns:a": "http://www.w3.org/2005/Atom",
+                        "@_id": "acalog-field-655",
+                        "@_template": "title",
+                        "@_type": "space",
+                        "@_visibility": "visible"
+                    },
+                    {
+                        "a:title": {
+                            "#text": "Code",
+                            "@_xmlns:a": "http://www.w3.org/2005/Atom"
+                        },
+                        "display": {
+                            "name": {
+                                "@_visibility": "hidden",
+                                "@_bold": "no",
+                                "@_italic": "no",
+                                "@_linebreak": "no",
+                                "@_placement": "before"
+                            },
+                            "data": {
+                                "@_bold": "no",
+                                "@_italic": "no"
+                            }
+                        },
+                        "@_xmlns:a": "http://www.w3.org/2005/Atom",
+                        "@_id": "acalog-field-656",
+                        "@_template": "title",
+                        "@_type": "small-text",
+                        "@_visibility": "visible"
+                    },
+                    {
+                        "a:title": {
+                            "#text": "&#xA0;-&#xA0;",
+                            "@_xmlns:a": "http://www.w3.org/2005/Atom"
+                        },
+                        "display": {
+                            "name": {
+                                "@_visibility": "always",
+                                "@_bold": "no",
+                                "@_italic": "no",
+                                "@_linebreak": "no",
+                                "@_placement": "before"
+                            },
+                            "data": {
+                                "@_bold": "no",
+                                "@_italic": "no"
+                            }
+                        },
+                        "@_xmlns:a": "http://www.w3.org/2005/Atom",
+                        "@_id": "acalog-field-657",
+                        "@_template": "title",
+                        "@_type": "static-text",
+                        "@_visibility": "visible"
+                    },
+                    {
+                        "a:title": {
+                            "#text": "Name",
+                            "@_xmlns:a": "http://www.w3.org/2005/Atom"
+                        },
+                        "display": {
+                            "name": {
+                                "@_visibility": "hidden",
+                                "@_bold": "no",
+                                "@_italic": "no",
+                                "@_linebreak": "no",
+                                "@_placement": "before"
+                            },
+                            "data": {
+                                "@_bold": "no",
+                                "@_italic": "no"
+                            }
+                        },
+                        "@_xmlns:a": "http://www.w3.org/2005/Atom",
+                        "@_id": "acalog-field-658",
+                        "@_template": "title",
+                        "@_type": "small-text",
+                        "@_visibility": "visible"
+                    },
+                    {
+                        "a:title": {
+                            "@_xmlns:a": "http://www.w3.org/2005/Atom"
+                        },
+                        "@_xmlns:a": "http://www.w3.org/2005/Atom",
+                        "@_id": "acalog-field-638",
+                        "@_template": "body",
+                        "@_type": "horizontal-rule",
+                        "@_visibility": "visible"
+                    },
+                    {
+                        "a:title": {
+                            "#text": "Description",
+                            "@_xmlns:a": "http://www.w3.org/2005/Atom"
+                        },
+                        "display": {
+                            "name": {
+                                "@_visibility": "hidden",
+                                "@_bold": "no",
+                                "@_italic": "no",
+                                "@_linebreak": "no",
+                                "@_placement": "before"
+                            },
+                            "data": {
+                                "@_bold": "no",
+                                "@_italic": "no"
+                            }
+                        },
+                        "@_xmlns:a": "http://www.w3.org/2005/Atom",
+                        "@_id": "acalog-field-639",
+                        "@_template": "body",
+                        "@_type": "html",
+                        "@_visibility": "visible",
+                        "@_searchable": "yes"
+                    },
+                    {
+                        "a:title": {
+                            "@_xmlns:a": "http://www.w3.org/2005/Atom"
+                        },
+                        "@_xmlns:a": "http://www.w3.org/2005/Atom",
+                        "@_id": "acalog-field-640",
+                        "@_template": "body",
+                        "@_type": "double-linebreak",
+                        "@_visibility": "visible"
+                    },
+                    {
+                        "a:title": {
+                            "#text": "Previous Course Number",
+                            "@_xmlns:a": "http://www.w3.org/2005/Atom"
+                        },
+                        "display": {
+                            "name": {
+                                "@_visibility": "with-data",
+                                "@_bold": "yes",
+                                "@_italic": "no",
+                                "@_linebreak": "yes",
+                                "@_placement": "before"
+                            },
+                            "data": {
+                                "@_bold": "no",
+                                "@_italic": "no"
+                            }
+                        },
+                        "@_xmlns:a": "http://www.w3.org/2005/Atom",
+                        "@_id": "acalog-field-691",
+                        "@_template": "body",
+                        "@_type": "small-text",
+                        "@_visibility": "visible",
+                        "@_searchable": "yes"
+                    },
+                    {
+                        "a:title": {
+                            "@_xmlns:a": "http://www.w3.org/2005/Atom"
+                        },
+                        "@_xmlns:a": "http://www.w3.org/2005/Atom",
+                        "@_id": "acalog-field-693",
+                        "@_template": "body",
+                        "@_type": "double-linebreak",
+                        "@_visibility": "visible"
+                    },
+                    {
+                        "a:title": {
+                            "#text": "Prerequisites/Corequisites:",
+                            "@_xmlns:a": "http://www.w3.org/2005/Atom"
+                        },
+                        "display": {
+                            "name": {
+                                "@_visibility": "with-data",
+                                "@_bold": "yes",
+                                "@_italic": "no",
+                                "@_linebreak": "no",
+                                "@_placement": "before"
+                            },
+                            "data": {
+                                "@_bold": "no",
+                                "@_italic": "no"
+                            }
+                        },
+                        "@_xmlns:a": "http://www.w3.org/2005/Atom",
+                        "@_id": "acalog-field-641",
+                        "@_template": "body",
+                        "@_type": "html",
+                        "@_visibility": "visible",
+                        "@_searchable": "yes"
+                    },
+                    {
+                        "a:title": {
+                            "@_xmlns:a": "http://www.w3.org/2005/Atom"
+                        },
+                        "@_xmlns:a": "http://www.w3.org/2005/Atom",
+                        "@_id": "acalog-field-642",
+                        "@_template": "body",
+                        "@_type": "double-linebreak",
+                        "@_visibility": "visible"
+                    },
+                    {
+                        "a:title": {
+                            "#text": "When Offered:",
+                            "@_xmlns:a": "http://www.w3.org/2005/Atom"
+                        },
+                        "display": {
+                            "name": {
+                                "@_visibility": "with-data",
+                                "@_bold": "yes",
+                                "@_italic": "no",
+                                "@_linebreak": "no",
+                                "@_placement": "before"
+                            },
+                            "data": {
+                                "@_bold": "no",
+                                "@_italic": "no"
+                            }
+                        },
+                        "@_xmlns:a": "http://www.w3.org/2005/Atom",
+                        "@_id": "acalog-field-643",
+                        "@_template": "body",
+                        "@_type": "small-text",
+                        "@_visibility": "visible",
+                        "@_searchable": "yes"
+                    },
+                    {
+                        "a:title": {
+                            "@_xmlns:a": "http://www.w3.org/2005/Atom"
+                        },
+                        "@_xmlns:a": "http://www.w3.org/2005/Atom",
+                        "@_id": "acalog-field-644",
+                        "@_template": "body",
+                        "@_type": "double-linebreak",
+                        "@_visibility": "visible"
+                    },
+                    {
+                        "a:title": {
+                            "#text": "Cross Listed:",
+                            "@_xmlns:a": "http://www.w3.org/2005/Atom"
+                        },
+                        "display": {
+                            "name": {
+                                "@_visibility": "with-data",
+                                "@_bold": "yes",
+                                "@_italic": "no",
+                                "@_linebreak": "no",
+                                "@_placement": "before"
+                            },
+                            "data": {
+                                "@_bold": "no",
+                                "@_italic": "no"
+                            }
+                        },
+                        "@_xmlns:a": "http://www.w3.org/2005/Atom",
+                        "@_id": "acalog-field-646",
+                        "@_template": "body",
+                        "@_type": "html",
+                        "@_visibility": "visible",
+                        "@_searchable": "yes"
+                    },
+                    {
+                        "a:title": {
+                            "@_xmlns:a": "http://www.w3.org/2005/Atom"
+                        },
+                        "@_xmlns:a": "http://www.w3.org/2005/Atom",
+                        "@_id": "acalog-field-696",
+                        "@_template": "body",
+                        "@_type": "double-linebreak",
+                        "@_visibility": "visible"
+                    },
+                    {
+                        "a:title": {
+                            "#text": "Co-Listed:",
+                            "@_xmlns:a": "http://www.w3.org/2005/Atom"
+                        },
+                        "display": {
+                            "name": {
+                                "@_visibility": "with-data",
+                                "@_bold": "yes",
+                                "@_italic": "no",
+                                "@_linebreak": "no",
+                                "@_placement": "before"
+                            },
+                            "data": {
+                                "@_bold": "no",
+                                "@_italic": "no"
+                            }
+                        },
+                        "@_xmlns:a": "http://www.w3.org/2005/Atom",
+                        "@_id": "acalog-field-694",
+                        "@_template": "body",
+                        "@_type": "html",
+                        "@_visibility": "visible",
+                        "@_searchable": "yes"
+                    },
+                    {
+                        "a:title": {
+                            "@_xmlns:a": "http://www.w3.org/2005/Atom"
+                        },
+                        "@_xmlns:a": "http://www.w3.org/2005/Atom",
+                        "@_id": "acalog-field-647",
+                        "@_template": "body",
+                        "@_type": "double-linebreak",
+                        "@_visibility": "visible"
+                    },
+                    {
+                        "a:title": {
+                            "#text": "Graded:",
+                            "@_xmlns:a": "http://www.w3.org/2005/Atom"
+                        },
+                        "display": {
+                            "name": {
+                                "@_visibility": "with-data",
+                                "@_bold": "yes",
+                                "@_italic": "no",
+                                "@_linebreak": "no",
+                                "@_placement": "before"
+                            },
+                            "data": {
+                                "@_bold": "no",
+                                "@_italic": "no"
+                            }
+                        },
+                        "@_xmlns:a": "http://www.w3.org/2005/Atom",
+                        "@_id": "acalog-field-648",
+                        "@_template": "body",
+                        "@_type": "small-text",
+                        "@_visibility": "visible",
+                        "@_searchable": "yes"
+                    },
+                    {
+                        "a:title": {
+                            "@_xmlns:a": "http://www.w3.org/2005/Atom"
+                        },
+                        "@_xmlns:a": "http://www.w3.org/2005/Atom",
+                        "@_id": "acalog-field-649",
+                        "@_template": "body",
+                        "@_type": "double-linebreak",
+                        "@_visibility": "visible"
+                    },
+                    {
+                        "a:title": {
+                            "#text": "Credit Hours:",
+                            "@_xmlns:a": "http://www.w3.org/2005/Atom"
+                        },
+                        "display": {
+                            "name": {
+                                "@_visibility": "with-data",
+                                "@_bold": "no",
+                                "@_italic": "yes",
+                                "@_linebreak": "no",
+                                "@_placement": "before"
+                            },
+                            "data": {
+                                "@_bold": "no",
+                                "@_italic": "yes"
+                            }
+                        },
+                        "@_xmlns:a": "http://www.w3.org/2005/Atom",
+                        "@_id": "acalog-field-650",
+                        "@_template": "body",
+                        "@_type": "small-text",
+                        "@_program-display-field": "yes",
+                        "@_visibility": "visible"
+                    },
+                    {
+                        "a:title": {
+                            "@_xmlns:a": "http://www.w3.org/2005/Atom"
+                        },
+                        "@_xmlns:a": "http://www.w3.org/2005/Atom",
+                        "@_id": "acalog-field-651",
+                        "@_template": "body",
+                        "@_type": "double-linebreak",
+                        "@_visibility": "visible"
+                    },
+                    {
+                        "a:title": {
+                            "#text": "Contact, Lecture or Lab Hours:",
+                            "@_xmlns:a": "http://www.w3.org/2005/Atom"
+                        },
+                        "display": {
+                            "name": {
+                                "@_visibility": "with-data",
+                                "@_bold": "yes",
+                                "@_italic": "no",
+                                "@_linebreak": "no",
+                                "@_placement": "before"
+                            },
+                            "data": {
+                                "@_bold": "no",
+                                "@_italic": "no"
+                            }
+                        },
+                        "@_xmlns:a": "http://www.w3.org/2005/Atom",
+                        "@_id": "acalog-field-652",
+                        "@_template": "body",
+                        "@_type": "small-text",
+                        "@_visibility": "visible",
+                        "@_searchable": "yes"
+                    }
+                ]
+            },
+            "course": {
+                "a:title": {
+                    "#text": "STSO 2700 - Law & Society",
+                    "@_xmlns:a": "http://www.w3.org/2005/Atom"
+                },
+                "parent": {
+                    "xi:include": {
+                        "xi:fallback": "School of Humanities, Arts, and Social Sciences",
+                        "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                        "@_xi:xpointer": "xmlns(c=http://acalog.com/catalog/1.0) xpointer((//c:hierarchy//c:entity[@id='acalog-entity-1460'])[1])"
+                    },
+                    "@_xmlns:xi": "http://www.w3.org/2001/XInclude"
+                },
+                "type": {
+                    "xi:include": {
+                        "xi:fallback": "Science and Technology Studies-Social Sci. Credit",
+                        "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                        "@_xi:xpointer": "xmlns(c=http://acalog.com/catalog/1.0) xpointer((//c:types//c:type[@id='acalog-course-type-1259'])[1])"
+                    },
+                    "@_xmlns:xi": "http://www.w3.org/2001/XInclude"
+                },
+                "locations": "",
+                "a:content": {
+                    "prefix": "STSO",
+                    "code": 2700,
+                    "name": "Law & Society",
+                    "field": [
+                        {
+                            "xi:include": {
+                                "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                                "@_xi:xpointer": "xmlns(c=http://acalog.com/catalog/1.0) xpointer((//c:courses/c:fields/c:field[@id='acalog-field-654'])[1])"
+                            },
+                            "data": "STSO",
+                            "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                            "@_type": "acalog-field-654"
+                        },
+                        {
+                            "xi:include": {
+                                "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                                "@_xi:xpointer": "xmlns(c=http://acalog.com/catalog/1.0) xpointer((//c:courses/c:fields/c:field[@id='acalog-field-655'])[1])"
+                            },
+                            "data": "",
+                            "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                            "@_type": "acalog-field-655"
+                        },
+                        {
+                            "xi:include": {
+                                "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                                "@_xi:xpointer": "xmlns(c=http://acalog.com/catalog/1.0) xpointer((//c:courses/c:fields/c:field[@id='acalog-field-656'])[1])"
+                            },
+                            "data": 2700,
+                            "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                            "@_type": "acalog-field-656"
+                        },
+                        {
+                            "xi:include": {
+                                "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                                "@_xi:xpointer": "xmlns(c=http://acalog.com/catalog/1.0) xpointer((//c:courses/c:fields/c:field[@id='acalog-field-657'])[1])"
+                            },
+                            "data": "&#xA0;-&#xA0;",
+                            "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                            "@_type": "acalog-field-657"
+                        },
+                        {
+                            "xi:include": {
+                                "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                                "@_xi:xpointer": "xmlns(c=http://acalog.com/catalog/1.0) xpointer((//c:courses/c:fields/c:field[@id='acalog-field-658'])[1])"
+                            },
+                            "data": "Law & Society",
+                            "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                            "@_type": "acalog-field-658"
+                        },
+                        {
+                            "xi:include": {
+                                "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                                "@_xi:xpointer": "xmlns(c=http://acalog.com/catalog/1.0) xpointer((//c:courses/c:fields/c:field[@id='acalog-field-638'])[1])"
+                            },
+                            "data": "",
+                            "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                            "@_type": "acalog-field-638"
+                        },
+                        {
+                            "xi:include": {
+                                "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                                "@_xi:xpointer": "xmlns(c=http://acalog.com/catalog/1.0) xpointer((//c:courses/c:fields/c:field[@id='acalog-field-639'])[1])"
+                            },
+                            "data": {
+                                "h:p": [
+                                    {
+                                        "#text": "There ought to be a law. . .\" &#xA0;Law shapes people's lives in countless ways; it is everywhere. Law permits, prohibits, enables, legitimizes, protects, and prosecutes. Law is more than the written word, the \"black letter law.\" People make the law&#x2014;judges, attorneys, police officers, legislators, defendants, and plaintiffs. This course will explore the law's social, political, cultural, and historical aspects. Using an interdisciplinary approach, the course will examine how social theorists conceptualize and explain the relationship between law and society. Students will be exposed to the theoretical frameworks that are used to examine how the law shapes society, and society shapes the law, and develop an understanding of the social processes that affect the legal system. The course will advance students' capacity to think critically and communicate effectively about themes, concepts, and arguments surrounding the law and learn what law is; where it comes from; who creates it; and what roles it plays in shaping society.&#xA0;",
+                                        "@_xmlns:h": "http://www.w3.org/1999/xhtml"
+                                    },
+                                    {
+                                        "#text": "&#xA0;",
+                                        "@_xmlns:h": "http://www.w3.org/1999/xhtml"
+                                    }
+                                ],
+                                "@_xmlns:h": "http://www.w3.org/1999/xhtml"
+                            },
+                            "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                            "@_xmlns:h": "http://www.w3.org/1999/xhtml",
+                            "@_type": "acalog-field-639"
+                        },
+                        {
+                            "xi:include": {
+                                "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                                "@_xi:xpointer": "xmlns(c=http://acalog.com/catalog/1.0) xpointer((//c:courses/c:fields/c:field[@id='acalog-field-640'])[1])"
+                            },
+                            "data": "",
+                            "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                            "@_type": "acalog-field-640"
+                        },
+                        {
+                            "xi:include": {
+                                "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                                "@_xi:xpointer": "xmlns(c=http://acalog.com/catalog/1.0) xpointer((//c:courses/c:fields/c:field[@id='acalog-field-691'])[1])"
+                            },
+                            "data": "",
+                            "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                            "@_type": "acalog-field-691"
+                        },
+                        {
+                            "xi:include": {
+                                "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                                "@_xi:xpointer": "xmlns(c=http://acalog.com/catalog/1.0) xpointer((//c:courses/c:fields/c:field[@id='acalog-field-693'])[1])"
+                            },
+                            "data": "",
+                            "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                            "@_type": "acalog-field-693"
+                        },
+                        {
+                            "xi:include": {
+                                "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                                "@_xi:xpointer": "xmlns(c=http://acalog.com/catalog/1.0) xpointer((//c:courses/c:fields/c:field[@id='acalog-field-641'])[1])"
+                            },
+                            "data": "",
+                            "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                            "@_type": "acalog-field-641"
+                        },
+                        {
+                            "xi:include": {
+                                "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                                "@_xi:xpointer": "xmlns(c=http://acalog.com/catalog/1.0) xpointer((//c:courses/c:fields/c:field[@id='acalog-field-642'])[1])"
+                            },
+                            "data": "",
+                            "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                            "@_type": "acalog-field-642"
+                        },
+                        {
+                            "xi:include": {
+                                "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                                "@_xi:xpointer": "xmlns(c=http://acalog.com/catalog/1.0) xpointer((//c:courses/c:fields/c:field[@id='acalog-field-643'])[1])"
+                            },
+                            "data": "Spring term annually.",
+                            "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                            "@_type": "acalog-field-643"
+                        },
+                        {
+                            "xi:include": {
+                                "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                                "@_xi:xpointer": "xmlns(c=http://acalog.com/catalog/1.0) xpointer((//c:courses/c:fields/c:field[@id='acalog-field-644'])[1])"
+                            },
+                            "data": "",
+                            "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                            "@_type": "acalog-field-644"
+                        },
+                        {
+                            "xi:include": {
+                                "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                                "@_xi:xpointer": "xmlns(c=http://acalog.com/catalog/1.0) xpointer((//c:courses/c:fields/c:field[@id='acalog-field-646'])[1])"
+                            },
+                            "data": "",
+                            "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                            "@_type": "acalog-field-646"
+                        },
+                        {
+                            "xi:include": {
+                                "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                                "@_xi:xpointer": "xmlns(c=http://acalog.com/catalog/1.0) xpointer((//c:courses/c:fields/c:field[@id='acalog-field-696'])[1])"
+                            },
+                            "data": "",
+                            "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                            "@_type": "acalog-field-696"
+                        },
+                        {
+                            "xi:include": {
+                                "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                                "@_xi:xpointer": "xmlns(c=http://acalog.com/catalog/1.0) xpointer((//c:courses/c:fields/c:field[@id='acalog-field-694'])[1])"
+                            },
+                            "data": "",
+                            "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                            "@_type": "acalog-field-694"
+                        },
+                        {
+                            "xi:include": {
+                                "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                                "@_xi:xpointer": "xmlns(c=http://acalog.com/catalog/1.0) xpointer((//c:courses/c:fields/c:field[@id='acalog-field-647'])[1])"
+                            },
+                            "data": "",
+                            "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                            "@_type": "acalog-field-647"
+                        },
+                        {
+                            "xi:include": {
+                                "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                                "@_xi:xpointer": "xmlns(c=http://acalog.com/catalog/1.0) xpointer((//c:courses/c:fields/c:field[@id='acalog-field-648'])[1])"
+                            },
+                            "data": "",
+                            "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                            "@_type": "acalog-field-648"
+                        },
+                        {
+                            "xi:include": {
+                                "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                                "@_xi:xpointer": "xmlns(c=http://acalog.com/catalog/1.0) xpointer((//c:courses/c:fields/c:field[@id='acalog-field-649'])[1])"
+                            },
+                            "data": "",
+                            "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                            "@_type": "acalog-field-649"
+                        },
+                        {
+                            "xi:include": {
+                                "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                                "@_xi:xpointer": "xmlns(c=http://acalog.com/catalog/1.0) xpointer((//c:courses/c:fields/c:field[@id='acalog-field-650'])[1])"
+                            },
+                            "data": 4,
+                            "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                            "@_type": "acalog-field-650"
+                        },
+                        {
+                            "xi:include": {
+                                "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                                "@_xi:xpointer": "xmlns(c=http://acalog.com/catalog/1.0) xpointer((//c:courses/c:fields/c:field[@id='acalog-field-651'])[1])"
+                            },
+                            "data": "",
+                            "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                            "@_type": "acalog-field-651"
+                        },
+                        {
+                            "xi:include": {
+                                "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                                "@_xi:xpointer": "xmlns(c=http://acalog.com/catalog/1.0) xpointer((//c:courses/c:fields/c:field[@id='acalog-field-652'])[1])"
+                            },
+                            "data": "",
+                            "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                            "@_type": "acalog-field-652"
+                        }
+                    ],
+                    "@_xmlns:a": "http://www.w3.org/2005/Atom",
+                    "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                    "@_xmlns:h": "http://www.w3.org/1999/xhtml"
+                },
+                "@_id": "acalog-course-61504"
+            }
+        },
+        "hierarchy": {
+            "legend": {
+                "key": {
+                    "name": "College",
+                    "localname": "School/College",
+                    "@_id": "acalog-entity-type-6"
+                }
+            },
+            "entity": {
+                "type": {
+                    "xi:include": {
+                        "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+                        "@_xi:xpointer": "xmlns(c=http://acalog.com/catalog/1.0) xpointer((//c:key[@id='acalog-entity-type-6'])[1])"
+                    },
+                    "@_xmlns:xi": "http://www.w3.org/2001/XInclude"
+                },
+                "a:title": {
+                    "#text": "School of Humanities, Arts, and Social Sciences",
+                    "@_xmlns:a": "http://www.w3.org/2005/Atom"
+                },
+                "code": "",
+                "state": {
+                    "code": 1,
+                    "name": "Active-Visible"
+                },
+                "@_id": "acalog-entity-1460",
+                "@_has-description": "yes",
+                "@_child-of": "acalog-entity-1436"
+            }
+        },
+        "types": {
+            "course": {
+                "type": {
+                    "a:title": {
+                        "#text": "Science and Technology Studies-Social Sci. Credit",
+                        "@_xmlns:a": "http://www.w3.org/2005/Atom"
+                    },
+                    "a:content": {
+                        "@_xmlns:a": "http://www.w3.org/2005/Atom"
+                    },
+                    "@_id": "acalog-course-type-1259"
+                }
+            }
+        },
+        "status": "success",
+        "@_xmlns": "http://acalog.com/catalog/1.0",
+        "@_xmlns:h": "http://www.w3.org/1999/xhtml",
+        "@_xmlns:a": "http://www.w3.org/2005/Atom",
+        "@_xmlns:xi": "http://www.w3.org/2001/XInclude",
+        "@_id": "acalog-catalog-26"
+    }
+}
